@@ -5,7 +5,7 @@ $(document).ready(function(){
     $("img").css({"display":"block","width":"100%","height":"auto"})
     $("h1,h2,h3,p").css({"padding":"1em 0","margin":"0"})
     //showcase
-    $('#showcase').css({"min-height":"450px","color":"#fff","text-align":"center"});
+    $('#showcase').css({"min-height":"530px","color":"#fff","text-align":"center"});
     $('#showcase .bg-image').css({"position": "absolute","background": "#111 url('image01.png')",
     "background-repeat": "no-repeat","background-size": "cover","width":"100%","height": "520px","z-index": "-1","opacity": "0.9"})
     $('#showcase h1').css({"padding-top": "100px","padding-bottom": "0"})
